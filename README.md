@@ -4,6 +4,8 @@
     <img alt="introduction" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Breno+Silva!;" />
 </h1>
 
+Não fala inglês? <a href="https://github.com/BrenoSilva200/BrenoSilva200/blob/main/README-pt.md">Clique aqui</a> para visualizar essa página em português.
+
 <h3 align="center">A Software Developer from Brazil 🇧🇷</h3>
 
 <br/>
