@@ -48,7 +48,7 @@ Don't speak Portuguese? <a href="https://github.com/BrenoSilva200">Click here</a
 <div align="center">
   <h2>🐍 Minhas Contribuições 🐍</h2>
   <br>
-  <img alt="cobra comendo minhas contribuições" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="cobra comendo minhas contribuições" src="https://raw.githubusercontent.com/BrenoSilva200/BrenoSilva200/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
